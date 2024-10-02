@@ -29,7 +29,7 @@
 - [Email me](mailto:fitrafurqan@gmail.com)
 - [Connect on LinkedIn](https://www.linkedin.com/in/andi-fitra-furqan-b72067183/)
 
-😄 **Pronouns:** He
+😄 **Pronouns:** He/Him
 
 ⚡ **Fun fact:** 
 - When I'm not writing code, I'm probably exploring the world of **ethical hacking** or testing out new **gadgets** to improve my workspace!
