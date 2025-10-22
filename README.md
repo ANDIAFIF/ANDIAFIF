@@ -18,6 +18,9 @@
 - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 - **Penetration Testing**
 - **Ethical Hacking**
+- **Security Operation Center Analyst**
+- **Analisi Malware**
+- **Threat Hunting Malware**
 - **Linux Administration**
 - **Server Management & Security**
 
