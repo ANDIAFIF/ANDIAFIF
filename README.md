@@ -1,18 +1,53 @@
-# 💫 About Me:
-👋 Hi, I’m @ANDIAFIF<br>👀 I'm a mid-level web developer and cybersecurity specialist who thrives on solving complex problems with creative solutions. Whether it's building a responsive web app or securing networks, I'm always up for the challenge.<br><br>🌱 Currently exploring:<br><br>Advanced web development frameworks like Laravel.<br>Diving deeper into ethical hacking, penetration testing, and cyber defense strategies.<br>💻 Tech Stack & Skills:<br><br>HTML5<br>CSS3<br>JavaScript<br>PHP<br>Golang<br>Node.js<br>Laravel<br>Linux<br>Git<br>Penetration Testing<br>Ethical Hacking<br>Security Operation Center Analyst<br>Analisi Malware<br>Threat Hunting Malware<br>Linux Administration<br>Server Management & Security<br>💞️ Looking to collaborate on:<br><br>Cutting-edge web applications that focus on security and user experience.<br>Open-source cybersecurity projects to enhance online privacy and safety.<br>📫 How to reach me:<br><br>Email me<br>Connect on LinkedIn<br>😄 Pronouns: He/Him<br><br>⚡ Fun fact:<br><br>When I'm not writing code, I'm probably exploring the world of ethical hacking or testing out new gadgets to improve my workspace!
+# 👋 Hi, I’m @ANDIAFIF
 
+👀 **I'm a mid-level web developer** and **cybersecurity specialist** who thrives on solving complex problems with creative solutions. Whether it's building a responsive web app or securing networks, I'm always up for the challenge.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/andiafif.cyber) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andi fitra furqan) 
+🌱 **Currently exploring:** 
+- Advanced **web development** frameworks like **Laravel**.
+- Diving deeper into **ethical hacking**, **penetration testing**, and **cyber defense strategies**.
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ANDIAFIF&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ANDIAFIF&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ANDIAFIF&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+💻 **Tech Stack & Skills:**
+- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+- ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+- ![Golang](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+- ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
+- ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+- ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+- **Penetration Testing**
+- **Ethical Hacking**
+- **Security Operation Center Analyst**
+- **Analisi Malware**
+- **Threat Hunting Malware**
+- **Linux Administration**
+- **Server Management & Security**
+
+💞️ **Looking to collaborate on:** 
+- **Cutting-edge web applications** that focus on **security** and **user experience**.
+- **Open-source cybersecurity projects** to enhance online privacy and safety.
+
+📫 **How to reach me:** 
+- [Email me](mailto:fitrafurqan@gmail.com)
+- [Connect on LinkedIn](https://www.linkedin.com/in/andi-fitra-furqan-b72067183/)
+
+😄 **Pronouns:** He/Him
+
+⚡ **Fun fact:** 
+- When I'm not writing code, I'm probably exploring the world of **ethical hacking** or testing out new **gadgets** to improve my workspace!
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ANDIAFIF&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📊 GitHub Stats
+
+![ANDIAFIF's GitHub stats](https://github-readme-stats.vercel.app/api?username=ANDIAFIF&show_icons=true&theme=radical)
+
+## 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ANDIAFIF&theme=radical&margin-w=15)
+
+## 🌐 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/andi-fitra-furqan-b72067183/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:fitrafurqan@gmail.com)
